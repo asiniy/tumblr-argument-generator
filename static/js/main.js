@@ -153,7 +153,7 @@ define(
 			    'shitlord',
 			    'subhuman',
 				'misogynist',
-				
+				'nazi',				
 		    ]
 
 		getRandomItem = function (array) {
