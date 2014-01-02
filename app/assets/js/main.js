@@ -16,6 +16,7 @@ define(
 			    'burn in hell',
 			    'check your privilege',
 			    'fuck you',
+				'fuck off',
 			    'please die',
 			    'rot in hell',
 			    'screw you',
@@ -146,6 +147,8 @@ define(
 			    'scum',
 			    'shitlord',
 			    'subhuman',
+				'misogynist',
+				
 		    ]
 
 		getRandomItem = function (array) {
