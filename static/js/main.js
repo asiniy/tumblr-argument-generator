@@ -128,7 +128,6 @@ define(
 				    'cishet',
 				    'hetero',
 				    'male',
-				    'rich',
 				    'smallfat',
 				    'thin',
 				    'white',
