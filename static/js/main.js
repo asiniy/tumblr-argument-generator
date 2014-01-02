@@ -23,6 +23,7 @@ define(
 			    'shut the fuck up',
 			    'shut up',
 				'kill yourself',
+				'drop dead',
 		    ],
 		    description = [
 			    'deluded',
@@ -90,12 +91,15 @@ define(
 				    'thin',
 				    'third-gender',
 				    'trans*',
+					'transfat',
 				    'transgender',
 				    'transman',
 				    'transwoman',
 				    'trigger',
 				    'two-spirit',
 				    'womyn',
+					'poc',
+					'woc',
 			    ],
 			    [
 				    'chauvinistic',
@@ -118,6 +122,7 @@ define(
 				    'appearance',
 				    'attractive',
 				    'binary',
+					'bi',
 				    'cis',
 				    'cisgender',
 				    'cishet',
@@ -193,6 +198,7 @@ define(
 				getRandomItem(privileged[1]),
 				' ',
 				getRandomItem(finisher),
+				'.',
 			].join('').toUpperCase()
 		}
 
