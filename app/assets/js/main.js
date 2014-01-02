@@ -21,6 +21,7 @@ define(
 			    'screw you',
 			    'shut the fuck up',
 			    'shut up',
+				'kill yourself',
 		    ],
 		    description = [
 			    'deluded',
