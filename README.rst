@@ -4,7 +4,7 @@ Tumblr Argument Generator
 Live demo
 ---------
 
-Visit http://lokaltog.github.io/tumblr-argument-generator/ to receive a politically
+Visit http://lokaltog.github.io/tumblr-argument-generator/ (original) or http://lizardgamer.github.io/tumblr-argument-generator (forked) to receive a politically
 correct argument to win any social justice discussion on tumblr.
 
 Contributing
